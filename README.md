@@ -16,10 +16,4 @@ This project is a **Streamlit** web application that verifies signatures using a
 - **NumPy & Pandas** (Data Processing)
 - **Streamlit** (Web App Interface)
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo/signature-verification.git
-   cd signature-verification
    
